@@ -1,0 +1,11 @@
+/* PREVIEW SITE ONLY - not part of the real website. */
+.preview-banner {
+  background: #FFD54A;
+  color: #1F1F1F;
+  border-bottom: 3px solid #1F1F1F;
+  text-align: center;
+  padding: 0.625rem 1rem;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+.preview-banner strong { letter-spacing: 0.06em; }
